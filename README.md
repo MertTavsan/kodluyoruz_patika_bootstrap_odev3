@@ -1,0 +1,2 @@
+# kodluyoruz_patika_bootstrap_odev3
+Linkedin sayfası düzenleme
